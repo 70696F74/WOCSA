@@ -1,2 +1,2 @@
 # WOCSA
-Espace de travail avant soumission des projects chez https://github.com/wocsa 
+'Worldwide Open Cyber Security Association' (WOCSA) - Personnal sandbox for development and practice.
